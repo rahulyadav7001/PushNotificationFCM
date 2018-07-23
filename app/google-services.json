@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "80659664483",
+    "firebase_url": "https://pushnotificationfcm-235be.firebaseio.com",
+    "project_id": "pushnotificationfcm-235be",
+    "storage_bucket": "pushnotificationfcm-235be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80659664483:android:e5f57b5fa32ce3c2",
+        "android_client_info": {
+          "package_name": "com.ryandro.pushnotificationfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80659664483-8051j7tnjljpkba8407pbbftnnih07pq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKTT0NRbqk0ZbR-ETgDmdIcOaqjEMn-YU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
